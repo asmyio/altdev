@@ -1,0 +1,27 @@
+site_name: asmy dev
+site_url: https://asmy.dev
+
+theme:
+  name: material
+  favicon: images/favicon.png
+  logo: assets/chill.png
+  features:
+    - header.autohide
+    - navigation.footer
+
+plugins:
+  - social
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/asmyio
+      name: my github
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/asmyio
+      name: my linkedin
