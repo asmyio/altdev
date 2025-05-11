@@ -1,6 +1,4 @@
-# asmy.dev
-
-Professional Services and Consulting
+# Professional Services and Consulting
 
 ## Services
 

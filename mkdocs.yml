@@ -5,6 +5,8 @@ theme:
   name: material
   favicon: images/favicon.png
   logo: assets/chill.png
+  palette:
+    primary: blue grey
   features:
     - header.autohide
     - navigation.footer
